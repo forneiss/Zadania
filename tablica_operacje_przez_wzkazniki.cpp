@@ -55,7 +55,7 @@ int main() {
 
     cout << "Suma liczb: " << suma << endl;
 
-    delete[] tablica''
+    delete[] tablica;
 
     return 0;
 }
