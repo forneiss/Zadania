@@ -33,5 +33,9 @@ int main() {
         cout << "indeks " << i << ": " << tablicaPolaczona[i] << endl;
     }
 
+    delete[] tablica1;
+    delete[] tablica2;
+    delete[] tablicaPolaczona;
+
     return 0;
 }
